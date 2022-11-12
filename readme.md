@@ -19,5 +19,5 @@ Los pasos que se siguieron para la construcción de los dataset para el entrenam
 En este se encuentra la codifición de cada uno de los modelos, la justificación de la selección de cada uno de ellos al igual que sus evaluaciones
 
 ## Evaluation
-La validación del modelado en base a los requisitos de negocio.
+La validación del modelado con mejores resultados en la parte de modelado, en base a los requisitos de negocio.
 
