@@ -7,9 +7,8 @@ Dentro de la carpeta de documentación se encuentran archivos generales sobre el
 # ¿Cuál fue el proceso que se siguió?
 Como se puede observar en el siguiente diagrama, hasta el momento se han realizado 3 etapas de preparación de datos. Cada una de estas etapas aporta mejoras al dataset de entrenamiento, lo cual nos permite obtener modelos cada vez mejores. 
 Para conocer a detalle sobre los cambios que implica cada etapa de data preparation, favor de revisar la documentación de preparación de datos.
-![modelos drawio](https://user-images.githubusercontent.com/46075159/201461996-b2fad254-e9e6-4503-9e21-225f88601672.png)
 
-
+![modelos](https://user-images.githubusercontent.com/46075159/203157828-f19e6e1c-5730-421e-91ab-c054c87de291.png)
 
 
 # Cúal es el contenido de cada carpeta
