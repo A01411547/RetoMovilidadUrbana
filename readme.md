@@ -5,7 +5,7 @@ El presente proyecto busca estimar los Viajes Origen-Destino del 30% de la pobla
 Dentro de la carpeta de documentación se encuentran archivos generales sobre el proyecto y la división del proyecto en carpetas por las distintas etapas de CRISP-DM. Por otra parte, en la carpeta de código fuente se encuentra todo el código realizado durante las distintas etapas del proyecto.
 
 # ¿Cuál fue el proceso que se siguió?
-Como se puede observar en el siguiente diagrama, hasta el momento se han realizado 3 etapas de preparación de datos. Cada una de estas etapas aporta mejoras al dataset de entrenamiento, lo cual nos permite obtener modelos cada vez mejores. 
+Como se puede observar en el siguiente diagrama, hasta el momento se han realizado 4 etapas de preparación de datos. Cada una de estas etapas aporta mejoras al dataset de entrenamiento, lo cual nos permite obtener modelos cada vez mejores. 
 Para conocer a detalle sobre los cambios que implica cada etapa de data preparation, favor de revisar la documentación de preparación de datos.
 
 ![modelos](https://user-images.githubusercontent.com/46075159/203157828-f19e6e1c-5730-421e-91ab-c054c87de291.png)
