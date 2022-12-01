@@ -54,6 +54,7 @@ Se agregó una diagrama para facilitar la visualización de cuáles fueron los p
 
 ### Modeling
 Se agregó interpretación del modelo Benchmark y prueba de multicolinealidad.
+Se añadio lo necesario para la visualización del heatmap
 
 ### Evaluation
 Se agregó los hallazgos encontrados en el resultado de los modelos descatados.
